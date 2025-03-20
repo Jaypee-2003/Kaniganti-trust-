@@ -54,7 +54,7 @@ function Footer() {
                 </div>
             </div>
             <div className='lower-container'>
-                <p>© 2021 KanigantiTheme. Design By wpOcean. All Rights Reserved</p>
+                <p>© 2021 KanigantiTheme. Design By Jaypee. All Rights Reserved</p>
             </div>
         </footer>
     )
