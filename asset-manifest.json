@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kaniganti-trust-/static/css/main.e9f62613.css",
-    "main.js": "/Kaniganti-trust-/static/js/main.94257663.js",
+    "main.js": "/Kaniganti-trust-/static/js/main.6ccdd64a.js",
     "static/js/787.909e1ed9.chunk.js": "/Kaniganti-trust-/static/js/787.909e1ed9.chunk.js",
     "static/media/third-section-picture.png": "/Kaniganti-trust-/static/media/third-section-picture.8764ae3f72d4ad117706.png",
     "static/media/pic1-eightSection.jpg": "/Kaniganti-trust-/static/media/pic1-eightSection.3f290135c519562cf0e4.jpg",
@@ -52,11 +52,11 @@
     "static/media/jenefer.jfif": "/Kaniganti-trust-/static/media/jenefer.feb02791815baf5958c9.jfif",
     "index.html": "/Kaniganti-trust-/index.html",
     "main.e9f62613.css.map": "/Kaniganti-trust-/static/css/main.e9f62613.css.map",
-    "main.94257663.js.map": "/Kaniganti-trust-/static/js/main.94257663.js.map",
+    "main.6ccdd64a.js.map": "/Kaniganti-trust-/static/js/main.6ccdd64a.js.map",
     "787.909e1ed9.chunk.js.map": "/Kaniganti-trust-/static/js/787.909e1ed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9f62613.css",
-    "static/js/main.94257663.js"
+    "static/js/main.6ccdd64a.js"
   ]
 }
